@@ -1,0 +1,4 @@
+pipreqs                     --> to create requirements.txt
+streamlit run main_app.py   --> to run app locally
+
+
