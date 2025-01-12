@@ -4,7 +4,7 @@ import cv2
 from keras._tf_keras.keras.models import load_model
 
 # Loading model
-model = load_model('dog_breed.h5')
+model = load_model('./deg_breed.h5')
 
 # Names of classes
 CLASS_NAMES = ['Scottish Deerhound', 'Maltese Dog', 'Bernese Mountain Dog']
